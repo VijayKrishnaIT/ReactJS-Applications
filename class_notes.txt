@@ -1,4 +1,5 @@
-# React
+React
+==============
 
     - React is  the library (JS Library)
 
@@ -20,7 +21,7 @@
 
             4) Prime React
 
-        Angular
+        Angular 
 
             Angular JS
 
@@ -65,3 +66,8 @@
         - Babel is in built tool of react.
 
         - React JS applications are Component Based Application.
+
+
+
+
+
